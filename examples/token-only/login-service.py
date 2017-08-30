@@ -2,7 +2,7 @@
 
 without needing the Hub to support login of any kind.
 """
-from getpass import getuser
+
 import json
 import os
 from urllib.parse import urlparse
