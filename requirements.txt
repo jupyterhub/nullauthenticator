@@ -1,0 +1,1 @@
+jupyterhub>=0.8.0b1
