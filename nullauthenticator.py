@@ -10,7 +10,7 @@ e.g. only allowing access via API tokens.
 from jupyterhub.auth import Authenticator
 from jupyterhub.handlers.base import BaseHandler
 
-__version__ = '1.0.0'
+__version__ = '1.1.0.dev'
 
 
 class NullLoginHandler(BaseHandler):
