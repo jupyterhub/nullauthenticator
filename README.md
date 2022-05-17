@@ -1,3 +1,12 @@
+# DEPRECATED #
+
+NullAuthenticator was moved to JupyterHub Core in version 2.0.0.
+You can migrate to it by setting:
+
+```python
+c.JupyterHub.authenticator_class = "null"
+```
+
 # NullAuthenticator
 
 [![PyPI](https://img.shields.io/pypi/v/nullauthenticator.svg)](https://pypi.org/project/nullauthenticator/)
