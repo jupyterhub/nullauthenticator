@@ -1,6 +1,6 @@
 # NullAuthenticator
 
-[![PyPI](https://img.shields.io/pypi/v/nine.svg)](https://github.com/jupyterhub/nullauthenticator)
+[![PyPI](https://img.shields.io/pypi/v/nullauthenticator.svg)](https://pypi.org/project/nullauthenticator/)
 
 
 Null Authenticator for JupyterHub instances that should have no login mechanism,
